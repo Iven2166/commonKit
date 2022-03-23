@@ -13,17 +13,18 @@
 21,100006,"Whirlpool 1.9 cu. ft. Over the Range Convection Microwave in Stainless Steel with Sensor Cooking","microwaves",3
 23,100007,"Lithonia Lighting Quantum 2-Light Black LED Emergency Fixture Unit","emergency light",2.67
 ```
-
+- edit text file
+  - [vim](https://www.runoob.com/linux/linux-vim.html)
 - count lines (rows)
     - wc -l test.csv
-
 - count columns 
     - awk -F',' '{print NF;exit}' test.csv
     - head -10 test.csv | awk -F',' '{print NF}'
-
 - return some lines
     - head -10 test.csv
-    
+- create a little file of copy
+    - head -20 test.csv >> tmp.csv
+  
 
 - wc -w name.file 
 
