@@ -39,6 +39,21 @@ assert v1 == v2
 
 ## 深度学习类
 
+### 教程
+
+|教程   	|link                                                    	|
+|---	|----------------------------------------------------	|
+|datawhale教程！！！|https://github.com/orgs/datawhalechina/repositories?type=all
+|统计学习方法（第二版）习题解答|https://github.com/datawhalechina/statistical-learning-method-solutions-manual|
+|南瓜书PumpkinBook|https://github.com/datawhalechina/pumpkin-book|
+|深入浅出pytorch   	| https://github.com/datawhalechina/thorough-pytorch 	|
+|PyTorch 中文手册（pytorch handbook）|https://github.com/zergtant/pytorch-handbook|
+|机器学习集成学习与模型融合(基于python)   	|https://github.com/datawhalechina/ensemble-learning                                                    	|
+|动手学CV-Pytorch|https://datawhalechina.github.io/dive-into-cv-pytorch/#/chapter01_preliminary_knowledge/1.1_environment_install/README|
+|业务类-推荐系统|https://github.com/datawhalechina/fun-rec|
+|前沿跟踪-推荐系统|https://github.com/ruyiluo/Reco-Res|
+
+
 ### tf.nn.embedding_lookup
 - Looks up embeddings for the given ids from a list of tensors.
 
