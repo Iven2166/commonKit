@@ -54,6 +54,8 @@ assert v1 == v2
 |前沿跟踪-推荐系统|https://github.com/ruyiluo/Reco-Res|
 
 
+[CV的pooling-demo & 课程](https://deeplizard.com/resource/pavq7noze3)
+
 ### tf.nn.embedding_lookup
 - Looks up embeddings for the given ids from a list of tensors.
 
@@ -83,5 +85,4 @@ print(output[0][0].shape)  # torch.Size([50, 100]) : one of the matrix shape is 
 ### torch.nn.ModuleList(modules=None)
 > ModuleList can be indexed like a regular Python list, but modules it contains are properly registered, and will be visible by all Module methods.
 > [官网参考](https://pytorch.org/docs/stable/generated/torch.nn.ModuleList.html?highlight=nn%20modulelist#torch.nn.ModuleList)
-
 
