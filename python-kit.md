@@ -46,10 +46,13 @@ assert v1 == v2
 - [官网说明](https://www.tensorflow.org/guide/keras/masking_and_padding)
 tf.keras.preprocessing.sequence.pad_sequences
 
+### torch.nn
+> [官网参考](https://pytorch.org/docs/stable/nn.html)
+
 ### torch.nn.Conv2d
 
 > torch.nn.Conv2d(in_channels, out_channels, kernel_size, stride=1, padding=0, dilation=1, groups=1, bias=True, padding_mode='zeros', device=None, dtype=None)
-> - https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html
+> [官网参考](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html)
 
 ```python
 # With square kernels andequal stride
@@ -61,5 +64,9 @@ output = m(input1)
 print(output.shape) # torch.Size([20, 33, 24, 49]) : return shape of batch_size = 20, out_channels = 33, (24, 49) as product size  
 print(output[0][0].shape)  # torch.Size([50, 100]) : one of the matrix shape is (50, 100)
 ```
+
+### torch.nn.ModuleList(modules=None)
+> ModuleList can be indexed like a regular Python list, but modules it contains are properly registered, and will be visible by all Module methods.
+> [官网参考](https://pytorch.org/docs/stable/generated/torch.nn.ModuleList.html?highlight=nn%20modulelist#torch.nn.ModuleList)
 
 
