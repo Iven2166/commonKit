@@ -44,6 +44,7 @@ assert v1 == v2
 |教程   	|link                                                    	|
 |---	|----------------------------------------------------	|
 |datawhale教程！！！|https://github.com/orgs/datawhalechina/repositories?type=all
+|统计学习方法-书公式|https://github.com/SmirkCao/Lihang|
 |统计学习方法（第二版）习题解答|https://github.com/datawhalechina/statistical-learning-method-solutions-manual|
 |南瓜书PumpkinBook|https://github.com/datawhalechina/pumpkin-book|
 |深入浅出pytorch   	| https://github.com/datawhalechina/thorough-pytorch 	|
