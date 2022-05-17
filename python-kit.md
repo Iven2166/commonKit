@@ -1,6 +1,9 @@
 
 # python kit
 
+- 学习资料
+- https://www.programiz.com/python-programming/closure
+
 x, d = divmod(n)
 
 # Tensorflow
