@@ -3,6 +3,7 @@
 
 - 学习资料
 - https://www.programiz.com/python-programming/closure
+- https://learnpython.org/
 
 x, d = divmod(n)
 
